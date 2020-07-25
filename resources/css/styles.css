@@ -60,6 +60,7 @@ img{
 .heading{
     color:rgb(81, 151, 79);
     font-size:25px;
+    min-width:100%;
     margin-right:20px;
 }
 .paragraph{
